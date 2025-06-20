@@ -4,6 +4,8 @@
 
 建议先尝试跟着以下的指导完成实验内容
 
+<a href="simple_guide/《数据库系统》上机题目要求-2025.pdf">《数据库系统》上机题目要求</a>
+
 <a href="simple_guide/实验3 增删改查.md">实验3 增删改查</a>
 
 <a href="simple_guide/实验4 外部程序接口.md">实验4 外部程序接口</a>
