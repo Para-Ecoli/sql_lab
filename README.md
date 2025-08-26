@@ -15,3 +15,5 @@
 <a href="simple_guide/实验6 触发器.md">实验6 触发器</a>
 
 其余部分包括[包含全部SQL语句的sql文件](basic)、[数据库备份文件](dump)、[用于生成数据的python文件](pybug)和[JDBC项目](jdbc)，以及[完整的实验报告](final_report/数据库课内实验报告.md)
+
+如果有帮到你还请点个star支持一下
